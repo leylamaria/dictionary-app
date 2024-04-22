@@ -4,6 +4,7 @@
   margin: 0 auto;
   padding: 30px;
 }
-h1 {
-  color: black;
+.App-footer {
+  text-align: center;
+  margin: 50px 0;
 }
