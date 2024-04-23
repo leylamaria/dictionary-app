@@ -1,4 +1,4 @@
-import logo from "./logo.png";
+import logo from "./Logopur.png";
 import Dictionary from "./Dictionary";
 import "./App.css";
 
@@ -13,7 +13,25 @@ export default function App() {
           <Dictionary />
         </main>
         <footer className="App-footer">
-          <small>This project is coded by Leyla Maria</small>
+          <small>
+            Coded by{" "}
+            <a
+              href="https://yinarts.netlify.app"
+              target="_blank"
+              rel="noreferrer"
+            >
+              YinArts
+            </a>{" "}
+            and open-sourced on
+            <a
+              href="https://github.com/leylamaria"
+              target="_blank"
+              rel="noreferrer"
+            >
+              {" "}
+              GitHub
+            </a>{" "}
+          </small>
         </footer>
       </div>
     </div>
