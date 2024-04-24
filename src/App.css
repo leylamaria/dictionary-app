@@ -6,11 +6,11 @@ body {
   display: block;
   margin: 0 auto;
   max-width: 960px;
-  padding: 60px 0 100px;
+  padding: 60px 0;
 }
 .App-logo {
   display: block;
-  margin: 20px auto 50px;
+  margin: 0 auto 50px;
   max-width: 200px;
 }
 .App-footer {
