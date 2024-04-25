@@ -59,7 +59,7 @@ export default function Dictionary(props) {
             />
           </form>
           <small className="hint">
-            i.e. apathetic, conundrum, integrity, empathic{" "}
+            i.e. apathetic, conundrum, integrity, love{" "}
           </small>
         </section>
         <Results results={results} />

@@ -20,9 +20,9 @@ export default function App() {
               target="_blank"
               rel="noreferrer"
             >
-              YinArts
-            </a>{" "}
-            and open-sourced on
+              <img src={logo} className="logo-footer" alt="Logo" />
+            </a>
+            , open-sourced on
             <a
               href="https://github.com/leylamaria"
               target="_blank"
@@ -31,6 +31,14 @@ export default function App() {
               {" "}
               GitHub
             </a>{" "}
+            and hosted on{" "}
+            <a
+              href="https://yinarts-dictionary.netlify.app/"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Netlify
+            </a>
           </small>
         </footer>
       </div>
